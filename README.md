@@ -8,6 +8,7 @@ Analyze orders made during Black Friday weekend from Maven Ski Shop.
 
 I utilized openpyxl to edit and analyze order information in an Excel workbook using Python. 
 The Excel workbook contains data from each order including Order ID, Customer ID, Date, Subtotal, Tax, Total, Location, Item ID.
+(Original workbook and cleaned workbook included)
 
 Key Tasks
 - Read data from Excel workbook.
